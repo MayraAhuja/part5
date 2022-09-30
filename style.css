@@ -1,0 +1,12 @@
+canvas{
+    border: 5px dashed black;
+}
+
+h1{
+    padding: 8px;
+    font-size: 40px;
+}
+
+body{
+    background-size: cover;
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../AI-DJ"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ai-dj-project"
+	}
+}
